@@ -334,8 +334,12 @@ The simulator includes comprehensive error handling:
 No external libraries required - uses only Python standard library.
 
 
-
+```
 Fares hany   221000846
+
 Hussin yasser 22100800
+
 Mohammed Mohammed 221000663
+
 omar Mohamed  221000495
+```
